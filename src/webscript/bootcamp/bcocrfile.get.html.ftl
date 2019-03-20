@@ -1,3 +1,3 @@
 <#list docs as doc>
-    ${doc.name} <br />
+    ${doc.name}: ${doc.properties[sprop]} <br />
 </#list>

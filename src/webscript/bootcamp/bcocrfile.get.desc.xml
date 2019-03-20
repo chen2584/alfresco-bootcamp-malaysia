@@ -1,7 +1,7 @@
 <webscript>
     <shortname>Process OCR File</shortname>
     <description>Process OCR Content </description>
-    <url>/bookcamp/ocr/{type}</url>
+    <url>/bookcamp/ocr/{type}/{prop}/{value}</url>
     <authentication>user</authentication>
     <family>bootcamp</family>
 </webscript>
