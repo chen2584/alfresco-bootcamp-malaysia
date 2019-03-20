@@ -1,0 +1,7 @@
+<webscript>
+    <shortname> My Profile </shortname>
+    <description>Using person object to get user profile</description>
+    <url>/bookcamp/myprofile</url>
+    <authentication>user</authentication>
+    <family>bootcamp</family>
+</webscript>

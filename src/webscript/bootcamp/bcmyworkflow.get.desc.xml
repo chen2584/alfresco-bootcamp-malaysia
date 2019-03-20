@@ -1,0 +1,7 @@
+<webscript>
+    <shortname> My Workflow </shortname>
+    <description>eieiei</description>
+    <url>/bookcamp/workflow</url>
+    <authentication>user</authentication>
+    <family>bootcamp</family>
+</webscript>
